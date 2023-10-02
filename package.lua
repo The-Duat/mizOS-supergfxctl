@@ -4,7 +4,7 @@ packageInfo.exists = true -- Do not edit.
 
 
 
-packageInfo.pacman_depends = {"curl", "git", "base-devel"}
+packageInfo.pacman_depends = {"curl", "git", "base-devel", "pkg-config"}
 
 packageInfo.aur_depends = {}
 
